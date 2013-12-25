@@ -1,0 +1,6 @@
+MIDlet-Name: UA1241
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: FIRST
+MIDlet-1: UA1241, , theory6.main.UA1241
+MicroEdition-Profile: IMP-1.0
+MicroEdition-Configuration: CLDC-1.1
