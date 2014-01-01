@@ -109,15 +109,7 @@ public class UA1241 extends IterativeRobot {
         Constants.getInstance();
         Constants.load();
     }
- 
-    
-    
-    
-    
-   
-    
-    
-    
+
     /**
      * This function is called periodically when robot is disabled
      */
